@@ -14,6 +14,7 @@
 ##
 
 <div>
+  <a src="https://github.com/JoaoDragon47">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodragon47&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodragon47&langs_count=16&theme=synthwave&layout=compact">
 </div>
@@ -30,5 +31,5 @@
   <a src="https://jiks-studios.itch.io/" target="_blank" ><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
   <a src="https://www.instagram.com/jlgamedesign" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a src="https://www.youtube.com/channel/UCnTg5wtgbYe2Bh2YTZ820bQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a src="https://www.twitch.tv/joaodragon47" target="_blank" ><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a src="https://www.twitch.tv/joaodragon47" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
