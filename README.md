@@ -15,7 +15,7 @@
 
 <div>
   <a src="https://github.com/JoaoDragon47">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodragon47&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodragon47&show_icons=true&theme=synthwave&include_all_commits=true&count_private=false">
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodragon47&langs_count=16&theme=synthwave&layout=compact">
 </div>
 
