@@ -2,6 +2,7 @@
 
 - 🤓 Possuo um nível básico em HTML, CSS e JavaScript.
 - 👨‍💻 Estudando GML (GameMaker Language) atualmente.
+- 📚 Atualmente cursando Design na Unifor.
 - 💻 Costumo utilizar para minhas aplicações:
   - VS Code para o desenvolvimento e execução de sites;
   - RPG Maker MV para criação de jogos mais simples e com menos complexidade;
