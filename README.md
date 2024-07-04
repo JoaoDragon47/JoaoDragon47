@@ -1,14 +1,11 @@
 ## Olá!! Sou João Lucas, ou Luska para os mais íntimos 😼
 
-- 🤓 Possuo um nível básico em HTML, CSS e JavaScript.
 - 👨‍💻 Estudando GML (GameMaker Language) atualmente.
 - 📚 Atualmente cursando Design na Unifor.
 - 💻 Costumo utilizar para minhas aplicações:
-  - VS Code para o desenvolvimento e execução de sites;
   - RPG Maker MV para criação de jogos mais simples e com menos complexidade;
   - GameMaker Studio 2 para a elaboração de jogos que requerem uma maior complexidade.
 - 🧐 Busco serviços de:
-    - Freelancer em Front-End mais simples;
     - Desenvolvimentos de Jogos;
     - Artista em Pixel (publico algumas de minhas artes no Instagram).
 
